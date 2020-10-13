@@ -5,7 +5,7 @@ if($_GET)
 {
  echo "Halo: ". $_GET['nama']. "<br />";
  echo "Alamat Anda: ". $_GET["alamat"]. "<br />";
-}
+};
 
 // $_POST method
 if($_POST)
